@@ -1,0 +1,20 @@
+body{
+    background-image: url(https://preview.redd.it/94mfyw6sra271.png?width=7674&format=png&auto=webp&s=7a93359511be73301107d3e002adad2a1ea16339);
+    background-size: cover; 
+    background-repeat: no-repeat;
+}
+
+header{
+    background-color: rgba(20, 115, 192, 0.5);
+    border-radius: 10px;
+    border-style: double;
+    border-width: 2px;
+    border-color: whitesmoke;
+    height: 120px;
+}
+
+h1{
+    text-align: center;
+    color: rgb(8, 50, 82);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
